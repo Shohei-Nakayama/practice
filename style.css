@@ -1,0 +1,14 @@
+body{
+    font-size: 32px;
+}
+
+input[type=checkbox] {
+	transform: scale(3);
+	margin: 10px 10px 10px 10px;
+}
+
+.container{
+	width: 400px;
+    margin: 0 auto;
+    text-align: center;
+}
