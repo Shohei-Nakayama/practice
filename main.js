@@ -5,10 +5,4 @@ var app = new Vue({
 		}
 	})
 
-	alert:function aisatsu(message){
-		console.log(message);
-	}
-
-	aisatsu('おはよう');
-	aisatsu('こんにちは');
-	aisatsu('こんばんは');
+	alert('こんにちは藤沢')
