@@ -6,3 +6,5 @@ var app = new Vue({
 	})
 
 	alert('こんにちは藤沢')
+
+	
